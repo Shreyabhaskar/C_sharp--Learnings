@@ -1,0 +1,19 @@
+Camel Case
+eg: myVarible
+
+pascal case
+eg: MyClass
+
+snake case //not used in c#
+eg: my_varibale
+
+Naming convections are different for different area
+for eg: for naming class -> pascal case
+		naming methods -> pascal case
+		naming variable -> camel case
+
+best practices for consistent and readable c# code
+> clarity
+> consistency
+> collaboration
+> Maintainability
