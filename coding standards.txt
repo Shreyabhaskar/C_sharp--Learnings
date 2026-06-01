@@ -1,0 +1,13 @@
+coding standards
+>give variable a reasonable name -->based on for what it is used
+
+give proper method name(function name)
+Always leave comments in your code
+
+there are different ways to leave comments
+>single line comments - //
+>multiline comments /* ~ */
+>XML documentation comments
+///<summary>
+//this method is very good
+///<summary>
